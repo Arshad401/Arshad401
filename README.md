@@ -1,4 +1,4 @@
-# Arshad401-
+# Arshad401
 ![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 <h1 align="center">Hi 👋, I'm ARSHAD</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
